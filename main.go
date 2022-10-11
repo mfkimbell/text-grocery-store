@@ -39,8 +39,6 @@ func main() {
 	prices["Onions"] = 1.25
 	prices["Apples"] = 0.50
 
-	fmt.Println("Map: ", inv)
-
 	var name = "GO shopping application"
 
 	fmt.Print("\n")
