@@ -1,7 +1,17 @@
 # GO_ShoppingApplication
 This is a shopping application using things like maps, slices, for loops, and good code reusability
-FirstCheckout:
+Menu:
+![](Screenshots/MenuDisplay.png)
+Introduction/UserInput:
+![](Screenshots/Introduction:UserInput.png)
+First Checkout:
 ![](Screenshots/FirstCheckout.png)
+Second Checkout (multiple different items):
+![](Screenshots/SecondCheckout(multiple%20items).png)
+Displaying Purchase History:
+![](Screenshots/DisplayingPurchaseHistory.png)
+Displaying Available Inventory:
+![](Screenshots/DisplayingAvailableInventory.png)
 
 Interesting problems:
 
