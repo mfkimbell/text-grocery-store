@@ -1,5 +1,6 @@
-# GO_ShoppingApplication
-This is a shopping application using things like maps, slices, for loops, and good code reusability
+# text-grocery-store
+
+The purpose of this project was to familiarize myself with the Golang programming language. This project includes maps, slices, for loops, and and many of the basic fundamental tools of Go. 
 
 Menu:
 
